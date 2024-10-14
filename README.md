@@ -1,4 +1,4 @@
-# Basic data analysis project
+# Basic Data analysis project
 
 Introduction:-
 
