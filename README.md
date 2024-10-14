@@ -26,9 +26,6 @@ What is done in our project?
          8. we checked correlation, covariance, and visualization in SNS. Heatmap.
 
          All the basic steps are performed in vs code by using pandas and Numpy libraries.
-
-conclusion:- 
-
          We have performed and applied data-wrangling techniques and removed unnecessary data in the dataset. 
          I am also learning how to collect data, process data, visualize data also find useful information in datasets.  
 
