@@ -1,6 +1,28 @@
 # Basic data analysis project
 
-Introduction 
+Introduction:-
 
         Data analysis is inspecting, cleaning, and transforming the data. after that, we received useful data, it useful data we applied statical methods, and removed some unnecessary columns and rows. so finally find useful data and use it for machine learning algorithms.  
         We received three Datasets of weather reports in 2011. in this dataset, there are more duplicate values, empty cells, and outliers also this dataset does not find any useful information. our role is cleaning data, transforming it, and creating a new useful dataset.
+
+the basic step of data analytics:- 
+
+         1. Data understanding and collection
+         2. Data Preparation
+         3. Data visualization
+         4. Data analysis
+
+         we have performed all the steps in our data sets.
+
+what is done in our project?
+
+         1. we have imported csv file in vs code and show datasets.
+         2. after understanding we have a cleaning dataset and removed duplicated values and unnecessary columns.
+         3. we combine two datasets and create a new one.
+         4. we measured central tendency in a new data set.
+         5. after that again combine the new dataset and give a third dataset.
+         6. we removed outliers in our data set using an IQR method and also visualization boxplot.
+         7. we check skewness in dataset and show in 
+         
+         
+
