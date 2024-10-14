@@ -22,7 +22,17 @@ what is done in our project?
          4. we measured central tendency in a new data set.
          5. after that again combine the new dataset and give a third dataset.
          6. we removed outliers in our data set using an IQR method and also visualization boxplot.
-         7. we check skewness in dataset and show in 
+         7. we check skewness in a dataset and show it in the histogram.
+         8. we checked correlation, covariance, and visualization in sns. heatmap.
+
+         all the basic steps are performed in vs code by using pandas and numpy libraries.
+
+conclusion:- 
+
+         we have performed and applied data-wrangling techniques and removed unnecessary data in dataset. 
+         I am also learning how to collect data, process data and 
+
+         
          
          
 
